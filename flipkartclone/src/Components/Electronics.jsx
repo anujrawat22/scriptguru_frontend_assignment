@@ -32,11 +32,6 @@ const data = [
         image: "https://static-assets-web.flixcart.com/www/linchpin/batman-returns/images/fk-default-image-75ff340b.png?q=90",
         category: "Best of Shavers",
         tagLine: "From ₹1,649"
-    },
-    {
-        image: "https://static-assets-web.flixcart.com/www/linchpin/batman-returns/images/fk-default-image-75ff340b.png?q=90",
-        category: "Best of Shavers",
-        tagLine: "From ₹1,649"
     }
 ]
 const Electronics = () => {
